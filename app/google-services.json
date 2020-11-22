@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "307342901881",
+    "firebase_url": "https://krishibondhu-8a7a6.firebaseio.com",
+    "project_id": "krishibondhu-8a7a6",
+    "storage_bucket": "krishibondhu-8a7a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307342901881:android:25f6ac31e056cf4efa0aa8",
+        "android_client_info": {
+          "package_name": "com.example.krishibondhuapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "307342901881-v3f1s5lobs9ta5nvbl1rvvte8gsh23g5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishibondhuapp",
+            "certificate_hash": "dba61de8129b9ed79f3c2029597fb1de08e1d2f6"
+          }
+        },
+        {
+          "client_id": "307342901881-a79p8lqa0hfgmlrckgd3k1ugco8h0mdr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz4tBiczMKHO78IV5MAsWmJeOtCmYbDxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "307342901881-a79p8lqa0hfgmlrckgd3k1ugco8h0mdr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
